@@ -16,6 +16,6 @@ Eu sou Fillip, e estudo programação no IFSP, tenho 16 anos e gosto bastante de
   
 <div> 
 
-  ![Snake animation](https://github.com/fillippng/fillipgms/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/fillipgms/fillipgms/blob/output/github-contribution-grid-snake.svg)
  
 </div>
