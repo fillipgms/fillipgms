@@ -1,4 +1,4 @@
-<img align="right" alt="gato-rolando" src="https://c.tenor.com/tkhBN6TlHkoAAAAi/bttv-rolling-cat.gif" width=79px>
+<img align="right" alt="gato-rolando" src="http://25.media.tumblr.com/e6ffb193e37fb600e828c03e357237b2/tumblr_mhtt5ts8BK1rkfeyuo1_250.gif" style="width: 20%">
 
 ## 👋 Olá Mundo!
 
