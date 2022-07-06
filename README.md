@@ -4,7 +4,7 @@
 
 Eu sou Fillip, e estudo programação no IFSP, tenho 16 anos e gosto bastante de design e front-end
 
-- ✨ Principais: <strong>HTML e CSS</strong>
+- ✨ Domino: <strong>HTML e CSS</strong>
 - 🌱 Aprendendo: <strong>Javascript</strong>
 - 📫 Me chame no email: fillipgms@gmail.com
 
