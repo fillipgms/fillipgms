@@ -15,8 +15,3 @@ Eu sou Fillip, e estudo programação no IFSP, tenho 17 anos e gosto bastante de
   <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
   
-<div> 
-
-  ![Snake animation](https://github.com/fillipgms/fillipgms/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
