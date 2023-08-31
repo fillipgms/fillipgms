@@ -14,4 +14,8 @@ Eu sou Fillip, e estudo programação no IFSP, tenho 17 anos e gosto bastante de
   <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
-  
+
+  <div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fillipgms&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fillipgms&layout=compact&langs_count=16&theme=dracula"/>
+</div>
