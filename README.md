@@ -1,4 +1,4 @@
-<img align="right" alt="gato-rolando" src="https://i.pinimg.com/originals/a4/04/46/a40446e62b33a3f911ac47c6ed24565f.gif" style="width: 50%">
+<img align="right" alt="gato dando corações" src="https://i.imgur.com/KfjIaT1.gif" style="width: 50%">
 
 ## 👋 Olá Mundo!
 
