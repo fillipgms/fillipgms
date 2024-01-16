@@ -25,7 +25,7 @@ Principais Linguagens e ferramentas: <br />
       <img align="center" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
     </div>
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fillipgms&hide=contribs,pr&theme=buefys">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fillipgms&hide=contribs,pr&theme=buefys&hide_rank=true">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fillipgms&layout=compact&theme=buefy" />
 </div>
 
