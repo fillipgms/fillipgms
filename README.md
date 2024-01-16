@@ -24,4 +24,8 @@ Principais Linguagens e ferramentas: <br />
   <img align="center" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </div>
+
+<div style="display: inline_block">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fillipgms&layout=compact&theme=buefy" />
+</div>
 <br>
