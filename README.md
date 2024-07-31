@@ -1,4 +1,4 @@
-<img align="right" alt="gato dando corações" src="https://i.imgur.com/KfjIaT1.gif" style="width: 50%; max-width: 300px">
+<img align="right" alt="gato dando corações" src="https://i.imgur.com/KfjIaT1.gif" style="width: 50%; max-width: 300px; z-index:999">
 
 ## 👋 Olá Mundo!
 
