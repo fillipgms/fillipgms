@@ -1,32 +1,11 @@
-<img align="right" alt="gato dando corações" src="https://i.imgur.com/KfjIaT1.gif" style="width: 50%; max-width: 300px; z-index:999">
 
-## 👋 Olá Mundo!
+<p>
+  <img height="200" align="left" src="https://camo.githubusercontent.com/0e31c634a669e678e5427f084e7d6fead7b101bc066361697757373f23889ba8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f616f39445569544b48363058532f67697068792e676966"/>
+  
+<img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=fillipgms&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+</p>
 
-Eu sou Fillip sou desenvolvedor front-end, bebo chá e gosto de gatos
-<br />
-<div>
-  <ul>
-    <li>📌 SP | Gru</li>
-    <li>🧣 18 anos</li>
-    <li>🎈 Me chame no email: fillipgms@gmail.com</li>
-  </ul>
-</div>
-
-##
-Principais Linguagens e ferramentas: <br />
-
-<div style="display: inline_block">
-    <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-      <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-      <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-      <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-      <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-      <img align="center" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-      <img align="center" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-    </div>
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fillipgms&hide=contribs,pr&theme=buefys&hide_rank=true">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fillipgms&layout=compact&theme=buefy" />
-</div>
-
-
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,tailwind,git,figma,vscode)](https://skillicons.dev)
