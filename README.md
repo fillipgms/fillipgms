@@ -1,4 +1,4 @@
-## Oh, hi! I'm <a href="https://linkedin.com/in/fillipgms" target="_blank">Fillip Mangia</a>!
+## Oh, hi! I'm <a href="https://linkedin.com/in/fillipmangia" target="_blank">Fillip Mangia</a>!
 
 
 <p>
