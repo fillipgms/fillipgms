@@ -1,3 +1,5 @@
+## Oh, hi! I'm <a href="https://linkedin.com/in/fillipgms" target="_blank">Fillip Mangia</a>!
+
 
 <p>
   <img height="200" align="left" src="https://camo.githubusercontent.com/0e31c634a669e678e5427f084e7d6fead7b101bc066361697757373f23889ba8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f616f39445569544b48363058532f67697068792e676966"/>
