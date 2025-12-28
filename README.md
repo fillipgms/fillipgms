@@ -1,6 +1,6 @@
 # 🐙 Fillip Mangia
 
-**``In love with the experience``**
+**``In Love With The Experience``**
 
 - ⚙️ Develop With: `NextJS`, `React`, `Vue.js`, `Talwind`, `PHP`, `NodeJS`
 - 🎨 Design With: `Figma`, `Photoshop`, `Affinity`
